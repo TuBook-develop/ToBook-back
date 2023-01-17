@@ -1,0 +1,26 @@
+{
+  "name": "tubook-back",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "npm start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TuBook-develop/TuBook-back.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TuBook-develop/TuBook-back/issues"
+  },
+  "homepage": "https://github.com/TuBook-develop/TuBook-back#readme",
+  "dependencies": {
+    "body-parse": "^0.1.0",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "helmet": "^6.0.1",
+    "morgan": "^1.10.0"
+  }
+}
